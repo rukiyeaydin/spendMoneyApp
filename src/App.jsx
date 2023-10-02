@@ -2,6 +2,7 @@ import './App.css'
 import Page from './components/Page'
 import TotalMoney from './components/TotalMoney'
 import Receipt from './components/Receipt'
+import Modal from './modal/Modal'
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
       <TotalMoney />
       <Page />
       <Receipt />
+      <Modal />
     </div>
   )
 }
