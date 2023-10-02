@@ -37,20 +37,6 @@ const Page = () => {
         </div>
       ))}
       </div>
-      <div className="receipt">
-        <h1>Your Receipt</h1>
-        <div className="urunler">
-          <div className="urun">
-            <h3 className='urunname'>Big-Mac vshgvag avgva hsahgsha</h3>
-            <p>x111</p>
-            <h3>$500000000</h3>
-          </div>
-        </div>
-        <div className="price">
-          <h2>Total</h2>
-          <h3>$500</h3>
-        </div>
-      </div>
     </div>
   )
 }
